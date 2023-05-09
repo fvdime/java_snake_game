@@ -6,6 +6,9 @@
 ![snake](https://github.com/fvdime/java_snake_game/assets/73942727/379130b4-d621-4754-a13c-baafda776cd2)
 
 
+-- I followed Bro Code's tutorial for this project please check out his channel --> https://www.youtube.com/watch?v=bI6e6qjJ8JQ
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.

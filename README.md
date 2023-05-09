@@ -1,4 +1,4 @@
-##Snake Game with Java
+## Snake Game with Java
 
 
 ![snake2](https://github.com/fvdime/java_snake_game/assets/73942727/a91e7c3e-3953-4531-9159-42c9e8635e85)
